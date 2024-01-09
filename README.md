@@ -1,3 +1,3 @@
 # Instagram-clone
-# Instagram-clone
-# Instagram-clone
+
+![Instagram](gif.gif)
